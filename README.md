@@ -1,7 +1,7 @@
 ## Hey, I’m David!👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:daviddmrtns@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/davidmrtns?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/davidmrtns)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/16cx1r75jmbgddlbr59yhtyzw?si=q1Og9ZazT7ueyD-cH3NfgQ)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidmrtns%2Fdavidmrtns&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat)
 
