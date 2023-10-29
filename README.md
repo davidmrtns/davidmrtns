@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidmrtns%2Fdavidmrtns&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat)
 
 - 📖 I’m pursuing a degree in Computer Science
-- 💻 A lover of software development
+- 💻 Lover of software development
 - 🎧 Probably listening some music rn...
 
 ### More about me:
