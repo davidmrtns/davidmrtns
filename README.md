@@ -17,7 +17,7 @@ const david = {
   code: [C#, Java, Javascript, HTML, CSS, SQL],
   tools: [React, Bootstrap, MySQL, Git],
   currentlyLearning: [Python, Typescript],
-  currentlyWorking: "A software to store procedures and employee assignments from a company. Soon in my GitHub!"
+  currentlyWorking: "A software to store procedures and employee assignments from a company, named Blueprint"
 }
 ```
 
