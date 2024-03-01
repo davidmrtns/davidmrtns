@@ -14,8 +14,8 @@
 ```javascript
 const david = {
   pronouns: "he" | "him",
-  code: [C#, Java, Javascript, HTML, CSS, SQL],
-  tools: [React, Bootstrap, MySQL, Git],
+  code: [C#, Python, Java, Javascript, HTML, CSS, SQL],
+  tools: [React, Django, Flask, Bootstrap, Git],
   currentlyLearning: [Python, Typescript],
   currentlyWorking: "A software to store procedures and employee assignments from a company, named Blueprint"
 }
