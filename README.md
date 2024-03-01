@@ -18,7 +18,7 @@ const david = {
   tools: [React, Django, Flask, Bootstrap, Git],
   currentlyLearning: [Python, Typescript],
   currentlyWorking: "A software to store procedures and employee assignments from a company, named Blueprint"
-}
+};
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmrtns&layout=compact&theme=algolia)
