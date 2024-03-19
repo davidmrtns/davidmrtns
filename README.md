@@ -8,6 +8,7 @@
 I'm a fullstack web developer from Brazil 🇧🇷
 
 ### Also:
+
 - 📖 I’m pursuing a degree in Computer Science
 - 💻 Lover of software development
 - 🎧 Probably listening some music rn...
