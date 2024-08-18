@@ -11,7 +11,7 @@ I'm a fullstack web developer from Brazil 🇧🇷
 
 - 📖 I’m pursuing a degree in Computer Science
 - 💻 Lover of software development
-- 🎧 Probably listening some music rn...
+- 🎧 Probably listening some pop music rn...
 
 ### More about me:
 
@@ -20,8 +20,8 @@ const david = {
   pronouns: "he" | "him",
   code: [C#, Python, Java, Javascript, HTML, CSS, SQL],
   tools: [React, Django, Flask, Bootstrap, Git],
-  currentlyLearning: [Python, Typescript],
-  currentlyWorking: "A software to store procedures and employee assignments from a company, named Blueprint"
+  currentlyLearning: [Python, C],
+  currentlyWorking: "Indica LMR, an app for customers to refer new customers to the LMR law firm"
 };
 ```
 
