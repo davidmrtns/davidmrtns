@@ -27,7 +27,7 @@ const david = {
     backEnd: {
       python: ["Django", "Flask"],
       csharp: [".NET Core", "Entity Framework Core"],
-      java: ["Spring Boot", "JPA"]
+      java: ["Spring Boot", "Hibernate"]
     },
     devOps: ["Docker", "GitHub Actions"],
     cloudServices: ["Azure", "Google Cloud", "Firebase", "Railway", "Render"],
