@@ -33,7 +33,7 @@ const david = {
     cloudServices: ["Azure", "Google Cloud", "Firebase", "Railway", "Render"],
     databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
     otherTools: ["Figma", "Jira"]
-  }
+  },
   currentlyLearning: ["TypeScript", "Next.js"]
 };
 ```
