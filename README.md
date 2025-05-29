@@ -5,12 +5,12 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/16cx1r75jmbgddlbr59yhtyzw?si=q1Og9ZazT7ueyD-cH3NfgQ)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidmrtns%2Fdavidmrtns&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat)
 
-I'm a fullstack web developer from Brazil 🇧🇷
+I'm a fullstack developer from Brazil 🇧🇷
 
-### Also:
+### And also:
 
-- 📖 I’m pursuing a degree in Computer Science
-- 💻 Lover of software development
+- 📖 Computer Science student
+- 💻 Developer by passion
 - 🎧 Probably listening some pop music rn...
 
 ### More about me:
@@ -18,11 +18,26 @@ I'm a fullstack web developer from Brazil 🇧🇷
 ```javascript
 const david = {
   pronouns: "he" | "him",
-  code: [C#, Python, Java, Javascript, HTML, CSS, SQL],
-  tools: [React, Django, Flask, Bootstrap, Git],
-  currentlyLearning: [Python, C],
-  currentlyWorking: "Indica LMR, an app for customers to refer new customers to the LMR law firm"
+  code: ["Python", "TypeScript", "C#", "Java"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Bootstrap", "Material UI"]
+    },
+    backEnd: {
+      python: ["Django", "Flask"],
+      csharp: [".NET Core", "Entity Framework Core"],
+      java: ["Spring Boot", "JPA"]
+    },
+    devOps: ["Docker", "GitHub Actions"],
+    cloudServices: ["Azure", "Google Cloud", "Firebase", "Railway", "Render"],
+    databases: ["PostgreSQL", "MySQL", "SQLite", "MongoDB"],
+    otherTools: ["Figma", "Jira"]
+  }
+  currentlyLearning: ["TypeScript", "Next.js"]
 };
 ```
+
+## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmrtns&layout=compact&theme=algolia&size_weight=0.5&count_weight=0.5&hide=css,scss)
