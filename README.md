@@ -1,11 +1,19 @@
 # Hey, I’m David!👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat)](mailto:daviddmrtns@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/davidmrtns)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white&style=flat)](https://open.spotify.com/user/16cx1r75jmbgddlbr59yhtyzw?si=q1Og9ZazT7ueyD-cH3NfgQ)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidmrtns%2Fdavidmrtns&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat)
-
 <p align="center"><strong>🚀 Full-stack Web Developer 📍 São Paulo, Brazil 🇧🇷</strong></p>
+
+<p align="center">
+  <a href="mailto:daviddmrtns@gmail.com">
+    <img src="https://img.shields.io/badge/daviddmrtns@gmail.com-D14836?style=social&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/davidmrtns">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/16cx1r75jmbgddlbr59yhtyzw?si=q1Og9ZazT7ueyD-cH3NfgQ">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" />
+  </a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidmrtns%2Fdavidmrtns&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat" />
+</p>
 
 I'm a software developer and Computer Science student passionate about building clean, user-focused web applications. I mainly work with technologies like TypeScript, Python and modern frontend frameworks, and I enjoy turning ideas into practical, well-structured solutions.
 
