@@ -75,3 +75,6 @@ I also enjoy writing from time to time and exploring creative ideas that sometim
 ### Currently vibing to:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=16cx1r75jmbgddlbr59yhtyzw&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=16cx1r75jmbgddlbr59yhtyzw&redirect=true)
+
+---
+> “I think there's been a glitch” – Taylor Swift, Glitch (2022) 💻
