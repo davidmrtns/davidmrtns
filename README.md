@@ -23,7 +23,7 @@ const david = {
       ui: ["Bootstrap", "Material UI"]
     },
     backEnd: {
-      python: ["FastAPI, "Django", "Flask"],
+      python: ["FastAPI", "Django", "Flask"],
       csharp: [".NET Core", "Entity Framework Core"],
       java: ["Spring Boot", "Hibernate"]
     },
