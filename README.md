@@ -9,9 +9,11 @@
 
 📍 São Paulo – Brazil 🇧🇷
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vel vehicula eros. Phasellus volutpat, sapien sed tincidunt fermentum, est metus venenatis nisi, et fermentum diam quam vitae lacus. Etiam et nibh libero. Suspendisse a efficitur augue. Praesent sollicitudin nisi in nulla laoreet euismod. Praesent vitae sodales massa, vitae gravida mi. Sed vel mattis quam. Nulla vulputate risus faucibus tortor feugiat, vitae commodo felis auctor. Maecenas varius hendrerit nisi id dignissim. Pellentesque ut metus in nisl ornare auctor. Duis ut tempus arcu.
+I'm a software developer and Computer Science student passionate about building clean, user-focused web applications. I mainly work with technologies like TypeScript, Python and modern frontend frameworks, and I enjoy turning ideas into practical, well-structured solutions.
 
-Donec turpis urna, malesuada vitae sapien ac, elementum tristique lectus. Phasellus at tincidunt risus. Curabitur finibus magna justo, nec varius lectus mattis nec. Maecenas cursus leo nec metus pharetra, ac tincidunt mauris mollis. Phasellus auctor tincidunt ligula, quis semper ante consequat quis. Nam enim felis, venenatis at fermentum semper, commodo non massa. Phasellus finibus quam non leo feugiat luctus. Quisque tincidunt ullamcorper odio at suscipit. Sed eu dapibus dui.
+Here on GitHub you'll find a mix of professional projects and personal experiments: from more polished portfolio work to small explorations where I test new ideas, tools, and concepts… and sometimes a few fun little projects, 'cause why not? 😆
+
+I'm always learning, improving my craft and exploring new technologies along the way.
 
 ```javascript
 const david = {
@@ -37,17 +39,6 @@ const david = {
 };
 ```
 
-## And also:
-
-- 📖 Computer Science student
-- 💻 Developer by passion
-- 🎧 Probably listening some pop music rn...
-
-## 📈 GitHub Stats
-
-![Streak](https://streak-stats.demolab.com?user=davidmrtns&theme=tokyonight&hide_border=true&card_height=90)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmrtns&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=32a197&size_weight=0.5&count_weight=0.5&hide=css,scss)
-
 ## 🧩 Stacks
 
 <div align="center">
@@ -66,6 +57,21 @@ const david = {
   <h3>Cloud Services</h3>
   <img src="https://skillicons.dev/icons?i=azure,gcp,firebase" />
 </div>
+
+## 📈 GitHub Stats
+
+![Streak](https://streak-stats.demolab.com?user=davidmrtns&theme=tokyonight&hide_border=true&card_height=90)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidmrtns&layout=compact&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=32a197&size_weight=0.5&count_weight=0.5&hide=css,scss)
+
+## Beyond coding...
+
+When I'm not coding, you'll probably find me exploring other things I'm curious about. I enjoy learning about astronomy and science in general, and I'm also a big fan of horror and suspense stories.
+
+I also spend a lot of time listening to pop music and diving into random topics that catch my attention.
+
+### 🎧 Currently vibing to:
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=16cx1r75jmbgddlbr59yhtyzw&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=16cx1r75jmbgddlbr59yhtyzw&redirect=true)
 
 ## 🌐 Where you can find me
 
