@@ -3,15 +3,9 @@
 <p align="center"><strong>🚀 Full-stack Web Developer 📍 São Paulo, Brazil 🇧🇷</strong></p>
 
 <p align="center">
-  <a href="mailto:daviddmrtns@gmail.com">
-    <img src="https://img.shields.io/badge/daviddmrtns@gmail.com-D14836?style=social&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/davidmrtns">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/16cx1r75jmbgddlbr59yhtyzw?si=q1Og9ZazT7ueyD-cH3NfgQ">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" />
-  </a>
+  <a href="mailto:daviddmrtns@gmail.com"><img src="https://img.shields.io/badge/daviddmrtns@gmail.com-D14836?style=social&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/davidmrtns"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/16cx1r75jmbgddlbr59yhtyzw?si=q1Og9ZazT7ueyD-cH3NfgQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" /></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdavidmrtns%2Fdavidmrtns&label=Visitors&labelColor=%23697689&countColor=%23263759&style=flat" />
 </p>
 
